@@ -30,6 +30,10 @@ text
 
 text  
 
+??? example "hi"  
+
+    work?  
+
 ---  
 
 
@@ -40,6 +44,10 @@ text
 
 
 text  
+
+!!! note "hello"  
+
+    its test formatting  
 
 ---  
 
